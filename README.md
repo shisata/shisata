@@ -2,12 +2,12 @@
 I graduated from Simon Fraser University with a Software Systems degree.
 I love solving real-world problems through technologies and always search for new solutions.
 
-### I main work with:
+## I main work with:
 React, Redux, Typescript, Node.js, PostgreSQL
 
-### Currently Located in: Vietnam 🇻🇳
+## Currently Located in: Vietnam 🇻🇳
 
-### I'm working on (Last edit: March 2026):
+## I'm working on (Last edit: March 2026):
 __Bapxaowebv2__
 A migration of <a href="https://bapxao.pythonanywhere.com/">Bapxaoweb</a> 
   
@@ -22,9 +22,9 @@ __Reasons__:
     * Community based contribution
     * New UI
 
-#### Find more about me <a href="https://joshtranworkportfolio.vercel.app/">here.</a>
+### Find more about me <a href="https://joshtranworkportfolio.vercel.app/">here.</a>
 
-#### Contacts:
+### Contacts:
 - joshtranwork@gmail.com
 - <a href="https://www.linkedin.com/in/joshtranwork/">LinkedIn</a>
 
