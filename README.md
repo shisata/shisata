@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hey There I'm Josh Tran
+I graduated from Simon Fraser University with a Software Systems degree.
+My passion lies in solving real problems through software and is focusing on developing web applications.
 
+ 
 <!--
 **shisata/shisata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
