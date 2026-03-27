@@ -8,23 +8,25 @@ React, Redux, Typescript, Node.js, PostgreSQL
 ## Currently Located in: Vietnam 🇻🇳
 
 ## I'm working on (Last edit: March 2026):
-__Bapxaowebv2__  
-A migration of <a href="https://bapxao.pythonanywhere.com/">Bapxaoweb</a> 
+### Bapxaowebv2  
+#### A migration of <a href="https://bapxao.pythonanywhere.com/">Bapxaoweb</a> 
   
-__Reasons__:
+__Reasons__:  
+```
 - More scalable architecture and technologies stack, features:
-    * Redux Toolkit
-    * React
-    * TypeScript
-    * Combination of SQL and NoSQL database
+    . Redux Toolkit
+    . React
+    . TypeScript
+    . Combination of SQL and NoSQL database
 - Adding features:
-    * Admin management system
-    * Community based contribution
-    * New UI
+    . Admin management system
+    . Community based contribution
+    . New UI
+```
 
-### Find more about me <a href="https://joshtranworkportfolio.vercel.app/">here.</a>
+#### Find more about me <a href="https://joshtranworkportfolio.vercel.app/">here.</a>
 
-### Contacts:
+#### Contacts:
 - joshtranwork@gmail.com
 - <a href="https://www.linkedin.com/in/joshtranwork/">LinkedIn</a>
 
