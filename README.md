@@ -5,12 +5,12 @@ __Currently Located in: Vietnam 🇻🇳__
 ***  
 
 ### I main work with:
-React | Redux | Typescript | Node.js | Express.js | PostgreSQL
+React | Redux | Typescript | Node.js | Express.js | PostgreSQL | Tailwind
 
 
 ### I'm working on (Last edit: March 2026):
 __Bapxaowebv2__  
-A migration of <a href="https://bapxao.pythonanywhere.com/">Bapxaoweb</a> 
+A migration of <img src="/pictures/bapxao.png" width='20px'/><a href="https://bapxao.pythonanywhere.com/">Bapxaoweb</a> 
   
 __Reasons__:  
 ```
