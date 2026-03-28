@@ -2,9 +2,10 @@
 I graduated from 🎓Simon Fraser University with a Software Systems degree.  
 I love solving real-world problems through technologies and always search for new solutions.   
 __Currently Located in: Vietnam 🇻🇳__
+***  
 
 ### I main work with:
-React, Redux, Typescript, Node.js, PostgreSQL
+React | Redux | Typescript | Node.js | Express.js | PostgreSQL
 
 
 ### I'm working on (Last edit: March 2026):
@@ -23,6 +24,7 @@ __Reasons__:
     . Community based contribution
     . New UI
 ```
+***  
 
 #### Find more about me <a href="https://joshtranworkportfolio.vercel.app/">here.</a>
 
