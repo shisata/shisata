@@ -1,6 +1,6 @@
 # Hey There! I'm Josh Tran ✌️
 I graduated from 🎓Simon Fraser University with a Software Systems degree.  
-I love solving real-world problems through technologies and always search for new solutions.
+I love solving real-world problems through technologies and always search for new solutions.   
 __Currently Located in: Vietnam 🇻🇳__
 
 ### I main work with:
