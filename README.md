@@ -26,7 +26,7 @@ __Reasons__:
 ```
 ***  
 
-#### Find more about me <a href="https://joshtranworkportfolio.vercel.app/">here.</a>
+#### Find more about me <a href="https://joshtranportfolio.vercel.app/">here.</a>
 
 #### Contacts:
 - joshtranwork@gmail.com
